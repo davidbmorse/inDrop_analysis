@@ -1,6 +1,8 @@
 ## inDrop_analysis
 assembled pipelines for scRNA-seq analysis based on the inDrop system
 
+TEST LINE from cmnd line
+
 # 1 run inDrop pipeline to produce sparse matrix
 
 # 2 transform sparse matrix to dense matrix
