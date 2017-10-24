@@ -1,7 +1,6 @@
 ## inDrop_analysis
 assembled pipelines for scRNA-seq analysis based on the inDrop system
-
-TEST LINE from cmnd line
+practice file created on 10_24_17 by David morse
 
 # 1 run inDrop pipeline to produce sparse matrix
 
